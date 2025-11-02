@@ -99,6 +99,8 @@ cp6-lava-rapido/
 - `npm run preview` - Visualiza o build de produção
 - `npm run lint` - Executa o linter ESLint
 
-## 📄 Licença
+## Como Rodar o Projeto Localmente
 
-MIT
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/lava-rapido.git
