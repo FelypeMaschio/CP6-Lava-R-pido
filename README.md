@@ -103,4 +103,4 @@ cp6-lava-rapido/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/lava-rapido.git
+   git clone https://github.com/FelypeMaschio/CP6-Lava-R-pido.git
